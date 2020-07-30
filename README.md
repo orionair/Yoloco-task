@@ -1,3 +1,4 @@
 # Yoloco-task
+Usage: run flask server, input instagram username after backslash (/cristiano for example). 
 
-Simple and short. If you have any questions, please contact me via telegram.
+If you have any questions, please contact me via telegram.
